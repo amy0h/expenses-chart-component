@@ -1,0 +1,35 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F8E9DD;
+}
+
+.balance-container {
+  background-color: #EC755D;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  align-items: center; 
+}
+
+.balance-container p {
+  color: #FFFFFF;
+  margin: 0; 
+  padding: 0; 
+}
+
+.balance-title {
+  flex-grow: 1; 
+}
+
+.logo {
+  height: 40px; 
+  margin-left: 20px; 
+}
+
+.chart-container {
+  padding: 20px;
+  background-color: #FFFFFF;
+}
