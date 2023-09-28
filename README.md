@@ -41,7 +41,7 @@ The app's design is based on the provided design files from Frontend Mentor.
 ![](./design/desktop-design.jpg)
 
 ### Active State
-![](./preview/active-states.jpg)
+![](./design/active-states.jpg)
 
 ## Live preview
 
